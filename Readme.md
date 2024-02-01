@@ -26,7 +26,7 @@ Below are the modules created:
 ____________________________________________________________________________________________________
 **Screenshot of an Application:**
 
-![Home]<img src="https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369" height="800" width="300" >, ![Search]<img src="https://github.com/surabhi3193/PokedexApp/assets/33922020/6b7dbce7-751a-4a54-9ff4-ec3640f2af75" height="800" width="400" >, ![Detail-Page]<img src="https://github.com/surabhi3193/PokedexApp/assets/33922020/734d2bb8-81f5-4796-8c38-5019feaf22e9" height="800" width="400" >
+![Home]<img src="https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369" height="500" width="300" >, ![Search]<img src="https://github.com/surabhi3193/PokedexApp/assets/33922020/6b7dbce7-751a-4a54-9ff4-ec3640f2af75" height="500" width="300" >, ![Detail-Page]<img src="https://github.com/surabhi3193/PokedexApp/assets/33922020/734d2bb8-81f5-4796-8c38-5019feaf22e9" height="500" width="300" >
 
 
 
