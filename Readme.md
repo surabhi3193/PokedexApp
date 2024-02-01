@@ -26,6 +26,9 @@ Below are the modules created:
 ____________________________________________________________________________________________________
 **Screenshot of an Application:**
 
+<img src="[http://url/image.png](https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369)" height="60" width="60" >
+
+
 ![Home](https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369)
 ![Search](https://github.com/surabhi3193/PokedexApp/assets/33922020/6b7dbce7-751a-4a54-9ff4-ec3640f2af75)
 ![Detail-Page](https://github.com/surabhi3193/PokedexApp/assets/33922020/734d2bb8-81f5-4796-8c38-5019feaf22e9)
