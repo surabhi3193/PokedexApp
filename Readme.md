@@ -1,4 +1,4 @@
-**Pokedex App**
+![Detail-Page](https://github.com/surabhi3193/PokedexApp/assets/33922020/13098d86-06b8-45b5-9cb1-9e111d3e1ad6)**Pokedex App**
 ____________________________________________________________________________________________________
 **This Pokedex App has following features in it:**
 
@@ -26,11 +26,11 @@ Below are the modules created:
 ____________________________________________________________________________________________________
 **Screenshot of an Application:**
 
-![Detail-Page.png](..%2F..%2FStudioProjects%2FDetail-Page.png)
+![Home](https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369)
+![Search](https://github.com/surabhi3193/PokedexApp/assets/33922020/6b7dbce7-751a-4a54-9ff4-ec3640f2af75)
+![Detail-Page](https://github.com/surabhi3193/PokedexApp/assets/33922020/734d2bb8-81f5-4796-8c38-5019feaf22e9)
 
 
-![Home.png](..%2F..%2FStudioProjects%2FHome.png)
 
 
-![Search.png](..%2F..%2FDownloads%2FSearch.png)
 
