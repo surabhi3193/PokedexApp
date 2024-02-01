@@ -26,7 +26,7 @@ Below are the modules created:
 ____________________________________________________________________________________________________
 **Screenshot of an Application:**
 
-<img src="[http://url/image.png](https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369)" height="60" width="60" >
+<img src="[http://url/image.png](https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369)" height="500" width="800" >
 
 
 ![Home](https://github.com/surabhi3193/PokedexApp/assets/33922020/34f54c35-67ed-4459-8a9c-2bd00c878369)
